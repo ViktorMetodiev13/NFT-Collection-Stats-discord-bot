@@ -21,6 +21,11 @@ The following discord bot was specifically made for a certain NFT collection nam
 * All that is left is to start the application.
 * Now the bot should be online and listening to comamnds.
 
+# Important !!
+
+If you want to use the bot for other NFT sets you can do it by replacing the opensea api with other link.
+
+# How it looks like? Here is a screenshot:
 
 
 
