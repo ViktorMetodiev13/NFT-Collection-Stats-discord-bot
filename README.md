@@ -1,25 +1,25 @@
-# NFT-Collection-Stats bot
+# NFT Collection Stats Discord Bot
 
 The following discord bot was specifically made for a certain NFT collection named Rubber Duck Bath Party. It gives the lastest information for the set taken from Opensea (marketplace for NFTs).
 
 # General Information
 
-* The main purpose of the bot is to showcase any information for the NFT set from Opensea.
+* The main purpose of the bot is to showcase information for the Rubber Duck Bath Party (NFT set) from Opensea.
 * The Information is shown through chat commands. 
-* On the side bar the bot shows the current floor price.
+* On the side bar the bot shows the current floor price as a watching activiy.
 
 # Technologies
 
-* The app uses Discord Developer Portal API to bring the bot alive on the side bar.
+* The app uses Discord Developer Portal API to bring the bot alive.
 * And for correct data it makes request to the opensea API.
-* The programming language is python. No advanced skills required.
+* The programming language is python. No advanced skills used.
 
 # Standard setup to run the bot: 
 
-* Firstly, generate your own discord app. Don't know how? Here is a link for the discord devs portal documentation https://discord.com/developers/docs/intro
-* Now, get the private key and replace it in line 108 where it says client.run('{private key}')
+* Firstly, generate your own discord app. Don't know how? Here is a link for the discord devs portal documentation: https://discord.com/developers/docs/intro
+* Now, get your own private key from the discord devs portal app and replace it in line 108 where it says client.run('{private key}')
 * All that is left is to start the application.
-* Now the bot should be online and listening to comamnds.
+* Now the bot should be online and listening for commands.
 
 # List of supported commands:
 
@@ -36,7 +36,7 @@ Command Prefix: "."
 
 # Other
 
-If you want to use the bot for other NFT sets you can do it by simply replacing the opensea api with other link.
+If you want to use the bot for other NFT set you can do it by simply replacing the link for Rubber Duck Bath Party with link for other NFT collection.
 
 
 
