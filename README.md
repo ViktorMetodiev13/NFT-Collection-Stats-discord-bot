@@ -14,6 +14,14 @@ The following discord bot was specifically made for a certain NFT collection nam
 * For the logic and commands it makes request to the opensea API
 * Basic Python skills are used
 
+# Standard setup to run the bot: 
+
+* Firstly, generate your own discord app from here: https://discord.com/developers/docs/intro
+* Now, get the private key and replace it in line 108 where it says client.run('{private key}')
+* All that is left is to start the application.
+* Now the bot should be online and listening to comamnds.
+
+
 
 
 
