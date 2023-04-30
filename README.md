@@ -21,6 +21,15 @@ The following discord bot was specifically made for a certain NFT collection nam
 * All that is left is to start the application.
 * Now the bot should be online and listening to comamnds.
 
+# List of supported commands:
+
+Command Prefix: "."
+
+* Daily: .daily volume; .daily sales; .daily average price
+* Seven Day: .seven day volume; .seven day sales; .seven day average price
+* Thirty Day: .thirty day volume; .thirty day sales; .thirty day average price
+* Overall Stats: .total supply; .total volume; .total owners; .average price; .market cap
+
 # How it looks like? Here is a screenshot:
 
 ![]()![discordBot](https://user-images.githubusercontent.com/102682394/235350199-81b0b4fd-c97b-4702-8965-89ed870ea84e.png)
