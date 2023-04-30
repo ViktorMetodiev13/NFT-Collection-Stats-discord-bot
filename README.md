@@ -27,7 +27,7 @@ If you want to use the bot for other NFT sets you can do it by replacing the ope
 
 # How it looks like? Here is a screenshot:
 
-
+![]()![discordBot](https://user-images.githubusercontent.com/102682394/235350199-81b0b4fd-c97b-4702-8965-89ed870ea84e.png)
 
 
 
