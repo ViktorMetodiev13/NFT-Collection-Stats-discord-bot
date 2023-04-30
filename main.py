@@ -105,4 +105,4 @@ async def on_ready():
     loop.start()
     print('Bot is ready!')
 
-client.run('OTU2OTg2MDg5MDg2Nzk5ODgy.Yj4Mvw.IXakvqq9-Yj0k6vWa2XMe9tINl4')
+client.run('replace with key')
