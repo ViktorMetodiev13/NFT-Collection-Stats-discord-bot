@@ -103,6 +103,6 @@ async def loop():
 @client.event
 async def on_ready():
     loop.start()
-    print('Bot is ready!')
+    print('The Bot is Ready!')
 
-client.run('replace with key')
+client.run('{replace with key}')
