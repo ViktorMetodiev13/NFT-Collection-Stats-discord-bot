@@ -17,7 +17,7 @@ The following discord bot was specifically made for a certain NFT collection nam
 # Standard setup to run the bot: 
 
 * Firstly, generate your own discord app. Don't know how? Here is a link for the discord devs portal documentation: https://discord.com/developers/docs/intro
-* Now, get your own private key from the discord devs portal app and replace it in line 108 where it says client.run('{private key}')
+* Now, get your own private key from the discord devs portal app and replace it in line 108 where it says client.run('{replace with key}')
 * All that is left is to start the application.
 * Now the bot should be online and listening for commands.
 
