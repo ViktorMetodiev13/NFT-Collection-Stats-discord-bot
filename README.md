@@ -1,6 +1,6 @@
 # NFT Collection Stats Discord Bot
 
-The following discord bot was specifically made for a certain NFT collection named Rubber Duck Bath Party. It gives the lastest information for the set taken from Opensea (marketplace for NFTs).
+The following discord bot was specifically made for a certain NFT collection named Rubber Duck Bath Party, though, it can easily be adapted to other collection. It gives the lastest information for the set taken from Opensea (marketplace for NFTs). 
 
 # General Information
 
